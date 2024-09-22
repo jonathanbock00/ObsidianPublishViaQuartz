@@ -1,6 +1,6 @@
 ---
-title: Example Title
-draft: false
+title: My first article
+draft: true
 tags:
   - example-tag
 ---
