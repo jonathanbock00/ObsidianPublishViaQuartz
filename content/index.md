@@ -1,5 +1,7 @@
 ---
 title: Welcome to Quartz
+tags:
+  - publish
 ---
 
 This is a blank Quartz installation.
