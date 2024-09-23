@@ -10,7 +10,7 @@ totalTime: "? min"
 serves: 4 people
 title: IP cooked rice recipe
 ---
-![[Pasted image 20240909184447.png]]
+![[rice-bowls.jpg|400]]
 # Ingredients
 #buy
 - [x] 1 cup rice
