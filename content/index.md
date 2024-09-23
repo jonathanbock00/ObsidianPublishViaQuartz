@@ -1,10 +1,7 @@
 ---
-title: Welcome to Quartz
+title: "Willkommen in meinen Garten : )"
 tags:
   - publish
 ---
-
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
-
 [[IP cooked rice recipe]]
+test test
