@@ -9,5 +9,5 @@ set file properties to
 	tags = publish
 frontmatter to 
 
-image probably wont work, need to sync asset folder as well
-![[Pasted image 20240923161928.png]]
+image probably wont work, need to sync asset folder as well!
+[[Pasted image 20240923174717.png]]
