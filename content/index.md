@@ -3,5 +3,5 @@ title: "Willkommen in meinen Garten : )"
 tags:
   - publish
 ---
-[[IP cooked rice recipe]]
+[[Instant pot rice]]
 test test

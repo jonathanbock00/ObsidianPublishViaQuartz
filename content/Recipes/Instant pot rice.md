@@ -8,7 +8,7 @@ tags:
   - "#publish"
 totalTime: "? min"
 serves: 4 people
-title: IP cooked rice recipe
+title: Instant pot rice
 ---
 ![[rice-bowls.jpg|400]]
 # Ingredients
