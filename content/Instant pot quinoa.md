@@ -7,6 +7,7 @@ tags:
   - publish
 totalTime: 20 min
 serves: 4 people
+title: Instant pot quinoa
 ---
 ![[Pasted image 20240926191347.png|400]]
 # Ingredients
@@ -28,9 +29,9 @@ serves: 4 people
 | whitequinoa  | 1 minute HP + wait for pin drop, NPR, 20 min overall time |
 | red quinoa   | 2 minute HP + wait for pin drop, NPR<br>                  |
 | black quinoa | 3 minute HP + wait for pin drop, NPR                      |
-# Nutrient value
-Calories: 156kcal | Carbohydrates: 27g | Protein: 6g | Fat: 3g | Saturated Fat: 1g | Sodium: 5mg | Potassium: 239mg | Fiber: 3g | Calcium: 20mg | Iron: 2mg
 # Note
 - Some people say not rinsing the quinoa will make it taste bitter and soapy.
+# Nutrient value
+Calories: 156kcal | Carbohydrates: 27g | Protein: 6g | Fat: 3g | Saturated Fat: 1g | Sodium: 5mg | Potassium: 239mg | Fiber: 3g | Calcium: 20mg | Iron: 2mg
 # relations
 - [[stovetop quinoa]]
