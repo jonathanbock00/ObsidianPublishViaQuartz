@@ -18,6 +18,6 @@ tags:
 - **Enhance learning:** It's a great way to deepen your understanding of complex subjects.
 - **Share your knowledge:** You can share your digital garden with others to spread your ideas.
 
-## Everything I do in my garden are based on my life vision
+## Everything I do in my garden is based on my life vision
 [[Automated cooking]]
 [[I eat 50% raw]]
