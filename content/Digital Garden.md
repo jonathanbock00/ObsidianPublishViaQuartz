@@ -6,6 +6,7 @@ tags:
 # What is a digital garden?
 
 ![[Pasted image 20240927114924.png|500]]
+
 A digital garden is a personal knowledge base that's organised like a garden. Just as a real garden is a place where you cultivate plants, a digital garden is a place where you cultivate your knowledge.
 
 # Here's how it works
