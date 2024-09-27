@@ -4,6 +4,8 @@ source: "[[Clippings/Instant Pot Lentils]]"
 status: proven
 tags:
   - publish
+  - sideDish
+  - instantPot
 totalTime: 22 min
 serves: 2 people
 title: Instant pot lentils
@@ -26,7 +28,7 @@ title: Instant pot lentils
 2. Preheat the Instant Pot by pressing the sauté button, once the display says hot add a drizzle of oil and chopped onion and garlic and stir-fry until translucent.
 3. Add green, brown, or black lentils, liquid, and sea salt to the Instant Pot, seal it and set to:
 
-| usage     | soaked              | unsoaked                | NPR |
+| usage     | soaked              | unsoaked                | [[NPR]] |
 | --------- | ------------------- | ----------------------- | --- |
 | salad     | 2 min high pressure | 6 min high pressure<br> | yes |
 | main dish | 3 min high pressure | 8 min high pressure     | yes |

@@ -1,5 +1,5 @@
 ---
-title: Instant pot rice
+title: Instant pot
 tags:
   - publish
 ---

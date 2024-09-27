@@ -5,6 +5,7 @@ status: proven
 tags:
   - sideDish
   - publish
+  - instantPot
 totalTime: 20 min
 serves: 4 people
 title: Instant pot quinoa
@@ -26,9 +27,9 @@ title: Instant pot quinoa
 
 | type         | IP time                                                   |
 | ------------ | --------------------------------------------------------- |
-| whitequinoa  | 1 minute HP + wait for pin drop, NPR, 20 min overall time |
-| red quinoa   | 2 minute HP + wait for pin drop, NPR<br>                  |
-| black quinoa | 3 minute HP + wait for pin drop, NPR                      |
+| whitequinoa  | 1 minute HP + wait for pin drop, [[NPR]], 20 min overall time |
+| red quinoa   | 2 minute HP + wait for pin drop, [[NPR]]<br>                  |
+| black quinoa | 3 minute HP + wait for pin drop, [[NPR]]                      |
 # Note
 - Some people say not rinsing the quinoa will make it taste bitter and soapy.
 # Nutrient value
