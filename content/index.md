@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my garden : )"
+title: "Welcome to my digital garden : )"
 tags:
   - publish
 ---
