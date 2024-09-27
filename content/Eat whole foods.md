@@ -34,6 +34,7 @@ Cooking can be extremely time consuming especially if you want to eat fresh heal
 - Only buy self cleaning appliances or dish washer safe appliances.
 - If possible cook one-pot-meals.
 - Prioritise grocery shopping once a week.
+- Soak the dried beans, legumes and so on the night before.
 # How Can I Accelerate / Automate This? (How to Do it effortlessly?)
 - [[Automated cooking]]
 - Only use recipes that are absolutely proven. So you do not have to spent time making them usable. [[Pro's only]]

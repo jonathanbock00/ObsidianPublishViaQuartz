@@ -13,3 +13,5 @@ Every recipe that ticks the following requirements.
 [[Instant pot quinoa]]
 [[Instant pot rice]]
 [[Instant pot beans]]
+[[Miso sauce]]
+[[Chocolate chia pudding]]
