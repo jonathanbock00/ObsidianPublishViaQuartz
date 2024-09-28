@@ -18,6 +18,7 @@ Every recipe that ticks the following requirements.
 [[Miso sauce]]
 ## Main dish
 [[Chocolate chia pudding]]
+[[Chana masala]]
 ## Smoothies
 [[Mango cucumber smoothie]]
 [[Berry Banana Smoothie]]
