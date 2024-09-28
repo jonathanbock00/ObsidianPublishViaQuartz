@@ -4,8 +4,6 @@ type: recipe
 source: "[[Fail-proof Instant Pot Beans]]"
 status: proven
 tags:
-  - sideDish
-  - instantPot
   - publish
 totalTime: "? min"
 serves:

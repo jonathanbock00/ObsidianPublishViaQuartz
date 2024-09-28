@@ -3,7 +3,6 @@ title: Miso sauce
 type: recipe
 source: "[[Easy Miso Sauce for Everything]]"
 tags:
-  - sauce
   - publish
 ---
 ![[Pasted image 20240927154211.png|400]]

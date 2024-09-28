@@ -3,8 +3,6 @@ type: recipe
 source: "[[Failproof Instant Pot Rice]]"
 status: proven
 tags:
-  - instantPot
-  - sideDish
   - "#publish"
 totalTime: "? min"
 serves: 4 people

@@ -14,14 +14,20 @@ Every recipe that ticks the following requirements.
 [[Instant pot quinoa]]
 [[Instant pot rice]]
 [[Instant pot beans]]
-## Sauces
-[[Miso sauce]]
-## Main dish
-[[Chocolate chia pudding]]
-[[Chana masala]]
 ## Smoothies
 [[Mango cucumber smoothie]]
 [[Berry Banana Smoothie]]
 [[Carrot banana smoothie]]
 [[Green gorilla smoothie]]
 [[Purple monster smoothie]]
+# Salads
+[[Carrot apple salad]]
+[[Tofu mit Musik]]
+[[Salad dressings recipe]]
+## Main dish
+[[Chocolate chia pudding]]
+[[Chana masala]]
+## Sauces
+[[Miso sauce]]
+# Spices
+[[Chana masala]]

@@ -4,14 +4,13 @@ type: recipe
 source: "[[Enjoy chana masala in an Instant Pot on any night of the week]]"
 status: experimental
 tags:
-  - mainDish
   - publish
 ---
 ![[Pasted image 20240928095123.png|400]]
+![[Pasted image 20240928112928.png|400]]
 # Ingredients
 #buy
 - [x] 180g dried chickpeas
-- [x] 830ml water
 - [x] 2 tbsp ghee
 - [x] 340g onion
 - [x] 4 cloves garlic
@@ -19,18 +18,16 @@ tags:
 - [x] 1 tsp salt
 - [x] 1 black tea bag or 2 tsp loose black tea in a mesh tea strainer (optional)
 - [ ] 400g tin chopped tomatoes
-- [x] 1 tbsp [[chana masala spice blend]]
+- [x] 1 tbsp [[Chana masala spice blend]]
 - [x] [[basmati rice]] (optional)
 - [x] Naan or paratha (optional)
 # Directions
 1. Soak dried chickpeas overnight (4-10 hours) in 2 cups of water.
 2. Sauté onions for 5 minutes, until translucent.
-3. Add garlic and ginger, and cook for 1 minute.
-4. Pour in the remaining 1 ½ cups of water.
-5. Stir in tomatoes, chickpeas, spices, salt, and tea (if using).
-6. Cook in an Instant Pot on high pressure for 35 minutes, then allow a natural release for 10-20 minutes.
+3. Add garlic and ginger, and cook for 1 minute until aromatic.
+4. Pour in 1 ½ cups of water.
+5. Stir in chickpeas, salt, and tea.
+6. Cook in an [[instant pot]] on high pressure for 35 minutes, then allow a natural release for 10-20 minutes.
 7. Remove the tea bag.
-8. Add more tomatoes and spice blend, then simmer for 5-7 minutes, until thickened.
-9. Serve warm with rice or naan.
-# Note
-- none
+8. Add the tomatoes and spice blend, then simmer for 5-7 minutes, until tomatoes start to dissolve.
+10. Serve warm with rice or naan.

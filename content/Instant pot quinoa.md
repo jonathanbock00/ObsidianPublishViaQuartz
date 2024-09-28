@@ -3,9 +3,7 @@ type: recipe
 source: "[[How To Cook Quinoa — InstantPot and Stove Top!]]"
 status: proven
 tags:
-  - sideDish
   - publish
-  - instantPot
 totalTime: 20 min
 serves: 4 people
 title: Instant pot quinoa

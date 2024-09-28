@@ -4,8 +4,6 @@ source: "[[Clippings/Instant Pot Lentils]]"
 status: proven
 tags:
   - publish
-  - sideDish
-  - instantPot
 totalTime: 22 min
 serves: 2 people
 title: Instant pot lentils
