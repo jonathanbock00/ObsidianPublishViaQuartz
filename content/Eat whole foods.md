@@ -27,6 +27,7 @@ Cooking can be extremely time consuming especially if you want to eat fresh heal
 - [[I eat 50% raw]]
 - [[Ich esse was mir gut tut]]
 # What Tasks / Habits Guarantee Success?
+- Plan what to [[cook this week]] before you go shopping. Stick to the shopping list.
 - Add a new [[No effort meal]] every week to your recipe collection.
 - Update your shopping list before going to the store. Plan for 1 week of meals.
 - Eat before you go shopping.

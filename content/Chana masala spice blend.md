@@ -12,11 +12,11 @@ title: Chana masala spice blend
 - [x] 6 dried chillies (medium heat such as kashmiri, remove stem)
 - [x] 3 tbsp coriander seeds
 - [x] 1 tbsp cumin seeds
-- [ ] 10 black peppercorns
-- [ ] 10 cloves
+- [x] 10 black peppercorns
+- [x] 10 cloves
 - [x] 6 green cardamom pods
 - [x] one (7.5cm) cinnamon stick
-- [ ] 3 tbsp amchur powder
+- [x] 3 tbsp amchur powder
 - [x] ½ tsp ground turmeric
 # Directions
 1. In a large pan, toast the spices (except for the amchur and turmeric powder).

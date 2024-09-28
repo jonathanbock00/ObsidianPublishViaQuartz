@@ -20,7 +20,7 @@ Every recipe that ticks the following requirements.
 [[Carrot banana smoothie]]
 [[Green gorilla smoothie]]
 [[Purple monster smoothie]]
-# Salads
+## Salads
 [[Carrot apple salad]]
 [[Tofu mit Musik]]
 [[Salad dressings recipe]]
@@ -31,6 +31,7 @@ Every recipe that ticks the following requirements.
 [[Chana masala]]
 ## Sauces
 [[Miso sauce]]
+[[Peanut sauce recipe]]
 ## Desert
 [[Sugar free apple sauce]]
 ## Spices
