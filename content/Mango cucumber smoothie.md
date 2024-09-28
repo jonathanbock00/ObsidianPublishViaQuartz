@@ -1,0 +1,20 @@
+---
+type: recipe
+title: Mango cucumber smoothie
+source: 
+status: experimental
+tags:
+  - smoothie
+  - publish
+---
+![[Pasted image 20240928083431.png|400]]
+# Ingredients
+#buy
+- [ ] 1 cup frozen mango
+- [ ] 1 cup cucumber
+- [ ] ½ cup dairy-free yogurt
+- [x] ½ cup oat milk
+- [x] ½ lime juice
+- [x] 2-5 mint leaves
+# Directions
+- Blend all ingredients in a high power blender for 40 seconds.

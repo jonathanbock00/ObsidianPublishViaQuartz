@@ -1,6 +1,6 @@
 ---
-title: Banana carrot smoothie
 type: recipe
+title: Carrot banana smoothie
 source: 
 status: experimental
 tags:

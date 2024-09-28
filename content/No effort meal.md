@@ -9,9 +9,18 @@ Every recipe that ticks the following requirements.
 - The recipe only includes simple and widely common ingredients.
 - A simple recipe does not include more than 5 ingredients. (Spices and other staple aromatics are not counted.)
 # List of no effort meals
+## Instant pot basics
 [[Publish/Instant pot lentils|Instant pot lentils]]
 [[Instant pot quinoa]]
 [[Instant pot rice]]
 [[Instant pot beans]]
+## Sauces
 [[Miso sauce]]
+## Main dish
 [[Chocolate chia pudding]]
+## Smoothies
+[[Mango cucumber smoothie]]
+[[Berry Banana Smoothie]]
+[[Carrot banana smoothie]]
+[[Green gorilla smoothie]]
+[[Purple monster smoothie]]
