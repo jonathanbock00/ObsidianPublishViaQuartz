@@ -31,5 +31,7 @@ Every recipe that ticks the following requirements.
 [[Chana masala]]
 ## Sauces
 [[Miso sauce]]
-# Spices
+## Desert
+[[Sugar free apple sauce]]
+## Spices
 [[Chana masala]]
