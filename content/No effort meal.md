@@ -24,6 +24,8 @@ Every recipe that ticks the following requirements.
 [[Carrot apple salad]]
 [[Tofu mit Musik]]
 [[Salad dressings recipe]]
+## Juices
+[[Lemon ginger blast]]
 ## Main dish
 [[Chocolate chia pudding]]
 [[Chana masala]]
