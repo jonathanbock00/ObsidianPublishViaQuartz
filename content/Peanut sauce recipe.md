@@ -13,8 +13,8 @@ serves: 2 people
 #buy
 - [ ] 1/2 cup canned coconut milk
 - [x] 1/2 cup peanut butter - unsweetened and unsalted
-- [ ] 1 clove crushed garlic
-- [ ] 1 Tbsp grated fresh ginger
+- [x] 1 clove crushed garlic
+- [x] 1 Tbsp grated fresh ginger
 - [x] 2 Tbsp soy sauce
 - [x] honey
 # Directions

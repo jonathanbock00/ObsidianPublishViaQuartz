@@ -10,9 +10,9 @@ tags:
 ![[Pasted image 20240927105304.png|400]]
 # Ingredients
 #buy
-- [ ] 2 frozen bananas
-- [ ] 1 cup carrots - peeled and roughly chopped
-- [ ] 1 tbsp lemon juice
+- [x] 2 frozen bananas
+- [x] 1 cup carrots - peeled and roughly chopped
+- [x] 1 tbsp lemon juice
 - [x] 1 cup oat milk
 - [x] 1 tbsp hemp seeds
 - [x] ½ tsp cinnamon

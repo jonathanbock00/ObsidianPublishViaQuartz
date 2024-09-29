@@ -10,8 +10,8 @@ tags:
 ![[Pasted image 20240928083431.png|400]]
 # Ingredients
 #buy
-- [ ] 1 cup frozen mango
-- [ ] 1 cup cucumber
+- [x] 1 cup frozen mango
+- [x] 1 cup cucumber
 - [ ] ½ cup dairy-free yogurt
 - [x] ½ cup oat milk
 - [x] ½ lime juice

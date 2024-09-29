@@ -9,10 +9,10 @@ tags:
 ![[Pasted image 20240928120403.png|400]]
 # Ingredients
 #buy
-- [ ] 250 g carrots
+- [x] 250 g carrots
 - [x] ½ squeezed lemon
 - [x] ½ small onion
-- [ ] ½ apple
+- [x] ½ apple
 - [x] 3 tbsp vinegar (white balsamic vinegar)
 - [x] 3 tbsp neutral oil
 - [x] salt

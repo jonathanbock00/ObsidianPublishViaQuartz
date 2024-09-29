@@ -17,8 +17,9 @@ tags:
 - [x] 1,5 cm ginger
 - [x] 1 tsp salt
 - [x] 1 black tea bag or 2 tsp loose black tea in a mesh tea strainer (optional)
-- [ ] 400g tin chopped tomatoes
-- [x] 1 tbsp [[Chana masala spice blend]]
+- [x] 400g tin chopped tomatoes
+- [x] 1 tbsp [[Chana masala spice blend]] (also works with garam masala)
+- [x] 100 ml coconut milk (optional)
 - [x] [[basmati rice]] (optional)
 - [x] Naan or paratha (optional)
 # Directions

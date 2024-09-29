@@ -21,7 +21,7 @@ serves: 2 people
 	- [x] 1-2 Tbsp water
 - Maple & mustard dressing
 	- [ ] 1 Tbsp maple syrup
-	- [ ] 1 Tbsp Dijon Mustard
+	- [x] 1 Tbsp Dijon Mustard
 	- [x] 1 Tbsp Balsamic vinegar
 	- [x] 6 Tbsp flavorless oil - avocado oil is my favorite
 - Citrus & basil dressing

@@ -8,14 +8,14 @@ tags:
 ---
 # Ingredients
 #buy
-- [ ] 200 g smoked firm tofu
-- [ ] gherkins
+- [x] 200 g smoked firm tofu
+- [x] gherkins
 - [x] 8 tbsp vinegar
 - [x] 4 tbsp oil
 - [x] 4 tbsp water
-- [ ] 3 onions
+- [x] 3 onions
 - [x] 1/4 tsp salt
-- [ ] 1/4 tsp sugar
+- [x] 1/4 tsp sugar
 - [x] 1/4 tsp pepper
 - [x] 1/4 tsp caraway seeds
 # Directions

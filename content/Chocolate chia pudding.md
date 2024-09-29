@@ -11,8 +11,8 @@ serves: 1 Person
 #buy
 - [x] 2 tablespoons (24g) chia seeds
 - [x] 1 tablespoon (9g) cacao powder
-- [ ] 5g agave syrup
-- [ ] 300g oat or nut milk
+- [x] 5g agave syrup
+- [x] 300g oat or nut milk
 # Directions
 - Put all ingredients in a sealable container.
 - Mix well by shaking for 30 seconds.
