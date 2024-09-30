@@ -1,7 +1,7 @@
 ---
 title: Peanut sauce recipe
 type: recipe
-source: https://greenhealthycooking.com/peanut-sauce/
+source: "[[Peanut Sauce clipping]]"
 status: experimental
 tags:
   - publish

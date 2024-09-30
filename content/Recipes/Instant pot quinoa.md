@@ -30,7 +30,5 @@ title: Instant pot quinoa
 | black quinoa | 3 minute HP + wait for pin drop, [[NPR]]                      |
 # Note
 - Some people say not rinsing the quinoa will make it taste bitter and soapy.
-# Nutrient value
-Calories: 156kcal | Carbohydrates: 27g | Protein: 6g | Fat: 3g | Saturated Fat: 1g | Sodium: 5mg | Potassium: 239mg | Fiber: 3g | Calcium: 20mg | Iron: 2mg
 # relations
 - [[stovetop quinoa]]

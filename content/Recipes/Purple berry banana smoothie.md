@@ -1,6 +1,6 @@
 ---
 type: recipe
-title: Purple monster smoothie
+title: Purple berry banana smoothie
 source: 
 status: experimental
 tags:

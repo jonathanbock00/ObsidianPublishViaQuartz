@@ -1,7 +1,7 @@
 ---
 type: recipe
 title: Salad dressing recipe
-source: https://greenhealthycooking.com/6-healthy-salad-dressings/
+source: "[[Healthy Salad Dressings clipping]]"
 status: experimental
 tags:
   - publish

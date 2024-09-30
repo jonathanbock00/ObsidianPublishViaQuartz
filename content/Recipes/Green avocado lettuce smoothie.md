@@ -1,6 +1,6 @@
 ---
 type: recipe
-title: Green gorilla smoothie
+title: Green avocado lettuce smoothie
 source: 
 status: experimental
 tags:

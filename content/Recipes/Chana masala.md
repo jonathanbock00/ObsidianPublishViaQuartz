@@ -28,7 +28,7 @@ tags:
 3. Add garlic and ginger, and cook for 1 minute until aromatic.
 4. Pour in 1 ½ cups of water.
 5. Stir in chickpeas, salt, and tea.
-6. Cook in an [[instant pot]] on high pressure for 35 minutes, then allow a natural release for 10-20 minutes.
+6. Cook in an [[Instant pot]] on high pressure for 35 minutes, then allow a natural release for 10-20 minutes.
 7. Remove the tea bag.
 8. Add the tomatoes and spice blend, then simmer for 5-7 minutes, until tomatoes start to dissolve.
 10. Serve warm with rice or naan.

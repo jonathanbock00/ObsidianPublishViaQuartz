@@ -45,5 +45,5 @@ title: Instant pot rice
 # Note
 - max. 5 cups raw of rice can be cooked in IP
 - no rinse necessary
-- I use a **US standard cup**. 236ml in volume. 
+- **US standard cup**. 236ml.
 - Cooking time stays the same no matter how many cups you cook.

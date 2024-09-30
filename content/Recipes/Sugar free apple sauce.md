@@ -1,7 +1,7 @@
 ---
 type: recipe
 title: Sugar free apple sauce
-source: https://minimalistbaker.com/3-ingredient-applesauce-no-sugar-added/
+source: "[[3-Ingredient Applesauce (No Sugar Added)]]"
 status: experimental
 tags:
   - publish
