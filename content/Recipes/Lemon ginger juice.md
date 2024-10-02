@@ -1,7 +1,7 @@
 ---
 type: recipe
-title: Lemon ginger blast
-source: "[[How To Make the Lemon Ginger Blast]]"
+title: Lemon ginger juice
+source: 
 status: proven
 tags:
   - publish

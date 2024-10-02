@@ -1,6 +1,6 @@
 ---
 type: recipe
-source: "[[Enjoy chana masala in an Instant Pot on any night of the week]]"
+source: 
 status: experimental
 tags:
   - publish

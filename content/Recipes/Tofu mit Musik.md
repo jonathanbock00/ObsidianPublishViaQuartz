@@ -1,7 +1,7 @@
 ---
 type: recipe
 title: Tofu mit Musik
-source: "[[Handkäs mit Musik| Chefkoch]]"
+source: 
 status: proven
 tags:
   - publish

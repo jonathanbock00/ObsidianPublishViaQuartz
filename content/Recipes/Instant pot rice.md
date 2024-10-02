@@ -1,6 +1,6 @@
 ---
 type: recipe
-source: "[[Failproof Instant Pot Rice]]"
+source: 
 status: proven
 tags:
   - "#publish"
@@ -43,7 +43,6 @@ title: Instant pot rice
 | wild rice              | 30 min   |
 | black pearl rice       | 30 min   |
 # Note
-- max. 5 cups raw of rice can be cooked in IP
-- no rinse necessary
-- **US standard cup**. 236ml.
+- Max. 5 cups raw of rice can be cooked in IP.
+- No rinse necessary.
 - Cooking time stays the same no matter how many cups you cook.

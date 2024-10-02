@@ -14,11 +14,12 @@ serves: 2 people
 - Peanut & ginger salad dressing
 	- [x] 2 Tbsp unsweetened smooth peanut butter
 	- [x] 1 tsp grated ginger
-	- [x] 1 tsp grated garlic
+	- [x] 1/2 tsp grated garlic
 	- [x] 1 Tbsp soy sauce
-	- [x] 1 tsp sesame oil
-	- [x] 1 lime
+	- [ ] 1/2 tsp sesame oil
+	- [ ] 1 lime
 	- [x] 1-2 Tbsp water
+	- [ ] 1 tbs honey
 - Maple & mustard dressing
 	- [ ] 1 Tbsp maple syrup
 	- [x] 1 Tbsp Dijon Mustard

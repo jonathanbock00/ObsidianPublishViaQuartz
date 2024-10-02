@@ -1,13 +1,12 @@
 ---
 title: Chana masala
 type: recipe
-source: "[[Enjoy chana masala in an Instant Pot on any night of the week]]"
+source: 
 status: experimental
 tags:
   - publish
 ---
 ![[Pasted image 20240928095123.png|400]]
-![[Pasted image 20240928112928.png|400]]
 # Ingredients
 #buy
 - [x] 180g dried chickpeas
@@ -32,3 +31,6 @@ tags:
 7. Remove the tea bag.
 8. Add the tomatoes and spice blend, then simmer for 5-7 minutes, until tomatoes start to dissolve.
 10. Serve warm with rice or naan.
+
+# Variant
+- [ ] Butternut with masala sauce.

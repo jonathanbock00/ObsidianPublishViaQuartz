@@ -1,6 +1,6 @@
 ---
 type: recipe
-source: "[[How To Cook Quinoa — InstantPot and Stove Top!]]"
+source: 
 status: proven
 tags:
   - publish
@@ -16,7 +16,7 @@ title: Instant pot quinoa
 	- [x] red quinoa
 	- [x] black quinoa
 - [x] 1 cups water or broth
-- [x] 1/4 teaspoon sea salt
+- [x] 1/4 teaspoon sea salt (optional)
 # Directions
 1. Rinse quinoa under running water until the water runs clear.
 2. Add add all ingredients to the instant pot.
@@ -29,6 +29,6 @@ title: Instant pot quinoa
 | red quinoa   | 2 minute HP + wait for pin drop, [[NPR]]<br>                  |
 | black quinoa | 3 minute HP + wait for pin drop, [[NPR]]                      |
 # Note
-- Some people say not rinsing the quinoa will make it taste bitter and soapy.
+- Not rinsing the quinoa might make it taste bitter and soapy.
 # relations
 - [[stovetop quinoa]]

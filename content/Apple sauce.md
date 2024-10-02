@@ -1,7 +1,7 @@
 ---
 type: recipe
-title: Sugar free apple sauce
-source: "[[3-Ingredient Applesauce (No Sugar Added)]]"
+title: Apple sauce
+source: 
 status: experimental
 tags:
   - publish
@@ -15,7 +15,7 @@ tags:
 - [x] 1 tsp lemon juice or apple cider vinegar
 - [x] 1-2 tsp maple syrup (optional)
 # Directions
-1. Put all the ingredients into the pot and pressure cook on high for 8 minutes.
+1. Put all the ingredients into the instant pot and pressure cook on high for 8 minutes.
 2. When the timer beeps, carefully release the pressure right away.
-3. Mash the mixture into a sauce using a wooden spoon, potato masher, or immersion blender.
-4. If it’s too watery, turn on sauté mode and stir often to help it thicken.
+3. Mash the mixture into a sauce using a wooden spoon.
+4. If necessary, turn on sauté mode to thicken further.

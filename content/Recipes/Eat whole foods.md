@@ -10,7 +10,7 @@ title: Eat whole foods
 # Why Am I Doing This?
 Whenever I eat unhealthy and highly processed foods, I get super tired, which makes me lazy and stay on the couch all day. This prevents me from creating the life I want. I need food that helps me to life how I want to life.
 
-On the other hand eating whole foods, in addition with raw food, keeps my energy up all day long and I do not have to rest to digest. My sleep quality is better and eating healthy also elongates your life span and I would like to get at least 100 years old.
+On the other hand eating whole foods, in addition with raw food, keeps my energy up all day long and I do not have to rest to digest. My sleep quality is better and eating healthy also elongates my life span and I would like to get at least 100 years old.
 
 Cooking can be extremely time consuming especially if you want to eat fresh healthy food. Investing a lot of time on a basic task like making food means, I cannot easily tackle other tasks that move my life vision forward.
 # What is Stopping Me from Doing This?
@@ -39,4 +39,8 @@ Cooking can be extremely time consuming especially if you want to eat fresh heal
 # How Can I Accelerate / Automate This? (How to Do it effortlessly?)
 - [[Automated cooking]]
 - Only use recipes that are absolutely proven. So you do not have to spent time making them usable. [[Pro's only]]
-- Ask someone to join my instant pot cooking journey and expand the recipe library together.
+- Ask people to join my instant pot cooking journey and expand the recipe library together.
+# Tasks
+- [ ] Add recipe with frozen veggie mix with tofu.
+- [ ] Add instant pot popcorn recipe.
+- [ ] Rezept Melli Tomatensauce einpflegen.

@@ -1,7 +1,7 @@
 ---
 type: recipe
 title: Carrot apple salad
-source: Jonathan Bock
+source: 
 status: proven
 tags:
   - publish

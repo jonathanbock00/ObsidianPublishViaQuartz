@@ -1,7 +1,7 @@
 ---
 title: Instant pot beans
 type: recipe
-source: "[[Fail-proof Instant Pot Beans]]"
+source: 
 status: proven
 tags:
   - publish

@@ -1,7 +1,7 @@
 ---
 title: Peanut sauce recipe
 type: recipe
-source: "[[Peanut Sauce clipping]]"
+source: 
 status: experimental
 tags:
   - publish

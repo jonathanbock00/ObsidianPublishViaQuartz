@@ -1,7 +1,7 @@
 ---
 title: Miso sauce
 type: recipe
-source: "[[Easy Miso Sauce for Everything]]"
+source: 
 tags:
   - publish
 ---

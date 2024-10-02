@@ -33,6 +33,6 @@ Every recipe that ticks the following requirements.
 [[Miso sauce]]
 [[Peanut sauce recipe]]
 ## Desert
-[[Sugar free apple sauce]]
+[[Apple sauce]]
 ## Spices
 [[Chana masala]]
