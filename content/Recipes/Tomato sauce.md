@@ -10,13 +10,13 @@ serves:
 ---
 # Ingredients
 #buy
-- [x] 400 ml canned tomatoes, whole tomatoes
-- [ ] 1 onions
-- [ ] 2 garlic cloves
-- [ ] 8 basil leaves
-- [ ] 40 ml olive oil
-- [ ] salt
-- [ ] chili flakes
+- [ ] 400 ml canned tomatoes, whole tomatoes
+- [x] 1 onions
+- [x] 2 garlic cloves
+- [x] 8 basil leaves
+- [x] 40 ml olive oil
+- [x] 1/4 tsp salt
+- [x] 1/4 tsp chili flakes
 # Directions
 1. Finely dice the onions.
 2. Slice the garlic.
