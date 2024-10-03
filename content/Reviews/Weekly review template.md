@@ -1,7 +1,6 @@
 ---
 title: Weekly review template
-tags:
-  - publish
+tags: []
 source: "[[Getting things done]]"
 related: "[[Weekly review template]]"
 ---
@@ -13,12 +12,12 @@ related: "[[Weekly review template]]"
 # Reflect
 - [ ] Write down the achievements of this week.
 	- [ ] Check calendar for finished tasks.
-	- [ ] Check daily notes for [[Eat the frog first]] tasks.
+	- [ ] Check daily notes for [[Eat the frog first]] tasks and other finished tasks.
 - [ ] Is my time spent in line with my life vision?
 - [ ] Check this weeks fleeting notes. Do you want to elaborate on anything?
 # Plan
 - [ ] Check the status of your [[Life vision]] files. Update it.
-- [ ] Check [[Due reminders]].
+- [ ] Inbox zero (Gmail, Whatsapp, Calendar, Reminders)
 # Rewards :) 
 - [ ] Collect your rewards, defined in finished life vision files.
 - [ ] Celebrate your progress.

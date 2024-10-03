@@ -3,7 +3,7 @@ type: recipe
 source: 
 status: proven
 tags:
-  - publish
+  
 serves: 1 Person
 ---
 ![[Pasted image 20240927152951.png|400]]

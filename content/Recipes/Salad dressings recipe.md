@@ -4,7 +4,7 @@ title: Salad dressing recipe
 source: "[[Healthy Salad Dressings clipping]]"
 status: experimental
 tags:
-  - publish
+  
 totalTime: "? min"
 serves: 2 people
 ---
@@ -25,6 +25,7 @@ serves: 2 people
 	- [x] 1 Tbsp Dijon Mustard
 	- [x] 1 Tbsp Balsamic vinegar
 	- [x] 6 Tbsp flavorless oil - avocado oil is my favorite
+	- [x] 1/4 tsp salt
 - Citrus & basil dressing
 	- [x] 1 cup basil leaves
 	- [x] 1 Tbsp Dijon mustard

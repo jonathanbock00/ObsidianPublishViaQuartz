@@ -1,11 +1,10 @@
 ---
 type: recipe
-title: Berry Banana Smoothie
+title: Berry banana smoothie
 source: 
 status: experimental
 tags:
   - smoothie
-  - publish
 ---
 ![[Pasted image 20240928083920.png|400]]
 # Ingredients

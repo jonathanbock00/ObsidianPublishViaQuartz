@@ -2,8 +2,7 @@
 type: recipe
 source: 
 status: proven
-tags:
-  - "#publish"
+tags: []
 totalTime: "? min"
 serves: 4 people
 title: Instant pot rice
@@ -24,25 +23,24 @@ title: Instant pot rice
 - [x] 1 cup water
 - [x] 1/2 tsp sea salt
 # Directions
-1. add everything to IP
-2. cook on high pressure for X minutes
-3. natural pressure release until pin drops
-	1. Takes on average 9-12 minutes (max. 18 minutes for 1 cup and max 30 mins for 4 cups).
-4. Remove all rice from pot immediately to avoid it sticking to the bottom.
-	1. If needing to keep warm, leave rice in pot after natural pressure release **without** opening the lid to avoid steam being released and drying out the rice > making it stick to the bottom.
+1. Add all ingredients to the Instant Pot.
+2. Cook on high pressure for X minutes.
+3. Let the pressure release naturally until the pin drops (about 9-12 minutes, up to 18 minutes for 1 cup of rice and 30 minutes for 4 cups).
+4. Remove the rice immediately to prevent sticking.
 
-| riceType               | cookTime |
+| RiceType               | CookTime |
 | ---------------------- | -------- |
-| basmati                | 3 min    |
-| jasmin                 | 3 min    |
-| sushi rice             | 5 min    |
-| long grain brown rice  | 22 min   |
-| short grain brown rice | 24 min   |
-| red rice               | 30 min   |
-| wild rice blend        | 28 min   |
-| wild rice              | 30 min   |
-| black pearl rice       | 30 min   |
+| Basmati                | 3 min    |
+| Jasmin                 | 3 min    |
+| Sushi rice             | 5 min    |
+| Long grain brown rice  | 22 min   |
+| Short grain brown rice | 24 min   |
+| Red rice               | 30 min   |
+| Wild rice blend        | 28 min   |
+| Wild rice              | 30 min   |
+| Black pearl rice       | 30 min   |
 # Note
-- Max. 5 cups raw of rice can be cooked in IP.
-- No rinse necessary.
-- Cooking time stays the same no matter how many cups you cook.
+- Max. 5 cups raw of rice can be cooked in an [[Instant pot]].
+- Rinsing the rice before cooking is not necessary.
+- Cooking time stays the same no matter how many cups of rice are cooked at once.
+- If keeping warm, leave the lid closed after the pressure release to retain steam and prevent the rice from drying out and sticking to the bottom.

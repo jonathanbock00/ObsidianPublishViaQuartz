@@ -1,7 +1,7 @@
 ---
 title: “Don’t judge each day by the harvest you reap but by the seeds that you plant.” Ralph Waldo Emerson
 tags:
-  - publish
+  
 ---
 ![[Digital Garden#What is a digital garden?]]
 [[Digital Garden#Here's how it works]]

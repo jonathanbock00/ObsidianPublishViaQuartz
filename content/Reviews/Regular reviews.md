@@ -1,7 +1,6 @@
 ---
 title: Regular reviews
-tags:
-  - publish
+tags: []
 ---
 ![[Pasted image 20240928165653.png|400]]
 # Why Am I Doing This?

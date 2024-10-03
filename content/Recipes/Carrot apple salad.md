@@ -4,9 +4,9 @@ title: Carrot apple salad
 source: 
 status: proven
 tags:
-  - publish
+  
 ---
-![[Pasted image 20240928120403.png|400]]
+![[Pasted image 20241003131332.png|400]]
 # Ingredients
 #buy
 - [x] 250 g carrots

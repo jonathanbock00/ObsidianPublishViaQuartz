@@ -1,6 +1,5 @@
 ---
-tags:
-  - publish
+tags: 
 type: project
 status: private
 priority: "1"
@@ -41,6 +40,14 @@ Cooking can be extremely time consuming especially if you want to eat fresh heal
 - Only use recipes that are absolutely proven. So you do not have to spent time making them usable. [[Pro's only]]
 - Ask people to join my instant pot cooking journey and expand the recipe library together.
 # Tasks
-- [ ] Add recipe with frozen veggie mix with tofu.
+- [ ] Add recipe with frozen veggie mix with tofu. [[frozen veggies]]
 - [ ] Add instant pot popcorn recipe.
 - [ ] Rezept Melli Tomatensauce einpflegen.
+- [ ] add impressum
+- [ ] add tomate mozarella vegan recipe
+- [ ] add tomatensauce recipe
+- [ ] add butternut masala
+- [ ] add frozen veggies and tofu recipe
+
+# Variant
+- [ ] Butternut with masala sauce. [[Eat whole foods]]

@@ -3,7 +3,7 @@ title: Miso sauce
 type: recipe
 source: 
 tags:
-  - publish
+  
 ---
 ![[Pasted image 20240927154211.png|400]]
 # Ingredients

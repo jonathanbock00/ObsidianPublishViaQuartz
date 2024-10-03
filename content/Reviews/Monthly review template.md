@@ -1,7 +1,6 @@
 ---
 title: Monthly review template
-tags:
-  - publish
+tags: []
 related: "[[Who am I right now?]]"
 ---
 ## Todo
@@ -15,3 +14,4 @@ related: "[[Who am I right now?]]"
 - [ ] Clear microsoft lens document folder.
 - [ ] What is unnecessary? What can be removed from my system?
 - [ ] A I still on track? Should I change course? Gut feeling?
+- [ ] Check [[expenses]]. Quit unnecessary abos.

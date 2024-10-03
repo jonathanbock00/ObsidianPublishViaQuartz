@@ -1,7 +1,7 @@
 ---
 title: NPR
 tags:
-  - publish
+  
 ---
 [[NPR]] is short for natural-pressure-release. After pressure cooking in an [[Instant pot]] you do have two options to release the pressure. Option one is to release the pressure using the quick-release-valve, which will depressure the instant pot in about 30 seconds.
 

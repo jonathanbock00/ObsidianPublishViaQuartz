@@ -1,6 +1,6 @@
 ---
 tags:
-  - publish
+  
 title: No effort meal
 ---
 # What is a no effort meal?
@@ -16,7 +16,7 @@ Every recipe that ticks the following requirements.
 [[Instant pot beans]]
 ## Smoothies
 [[Mango cucumber smoothie]]
-[[Berry Banana Smoothie]]
+[[Berry banana smoothie]]
 [[Carrot banana smoothie]]
 [[Green avocado lettuce smoothie]]
 [[Purple berry banana smoothie]]
@@ -33,6 +33,6 @@ Every recipe that ticks the following requirements.
 [[Miso sauce]]
 [[Peanut sauce recipe]]
 ## Desert
-[[Apple sauce]]
+[[Instant pot apple sauce]]
 ## Spices
 [[Chana masala]]

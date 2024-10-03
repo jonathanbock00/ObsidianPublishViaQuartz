@@ -4,7 +4,7 @@ type: recipe
 source: 
 status: experimental
 tags:
-  - publish
+  
 totalTime: 5 min
 serves: 2 people
 ---

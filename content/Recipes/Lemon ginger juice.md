@@ -4,14 +4,14 @@ title: Lemon ginger juice
 source: 
 status: proven
 tags:
-  - publish
+  
 ---
 ![[Pasted image 20240928142354.png|400]]
 # Ingredients
 #buy
 - [x] 1 peeled lemon
 - [x] 2 apples
-- [x] 1/2 habanero (full pepper for more advanced)  
+- [x] 1/2 habanero (full pepper if you are brave)  
 - [x] 3 inches fresh ginger  
 - [x] 3 inches fresh turmeric
 - [x] 1 cucumber  

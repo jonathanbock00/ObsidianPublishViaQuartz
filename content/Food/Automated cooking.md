@@ -1,7 +1,7 @@
 ---
 title: Automated cooking
 tags:
-  - publish
+  
 ---
 # How I think about cooking
 

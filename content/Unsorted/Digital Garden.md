@@ -1,7 +1,7 @@
 ---
 title: Digital Garden
 tags:
-  - publish
+  
 ---
 # What is a digital garden?
 

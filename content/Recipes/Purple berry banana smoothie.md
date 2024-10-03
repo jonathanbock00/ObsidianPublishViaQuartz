@@ -5,7 +5,7 @@ source:
 status: experimental
 tags:
   - smoothie
-  - publish
+  
 ---
 ![[Pasted image 20240928090642.png|400]]
 # Ingredients

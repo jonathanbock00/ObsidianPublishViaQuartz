@@ -3,7 +3,7 @@ type: recipe
 source: 
 status: proven
 tags:
-  - publish
+  
 totalTime: 20 min
 serves: 4 people
 title: Instant pot quinoa
@@ -21,14 +21,14 @@ title: Instant pot quinoa
 1. Rinse quinoa under running water until the water runs clear.
 2. Add add all ingredients to the instant pot.
 3. Cook on high pressure like stated in the table below.
-4. Use a fork to fluff up the quinoa and serve.
+4. Use a fork to fluff up the quinoa.
 
-| type         | IP time                                                   |
-| ------------ | --------------------------------------------------------- |
-| whitequinoa  | 1 minute HP + wait for pin drop, [[NPR]], 20 min overall time |
+| type         | IP time                                                       |
+| ------------ | ------------------------------------------------------------- |
+| white quinoa | 1 minute HP + wait for pin drop, [[NPR]], 20 min overall time |
 | red quinoa   | 2 minute HP + wait for pin drop, [[NPR]]<br>                  |
 | black quinoa | 3 minute HP + wait for pin drop, [[NPR]]                      |
 # Note
 - Not rinsing the quinoa might make it taste bitter and soapy.
 # relations
-- [[stovetop quinoa]]
+- [[Stovetop quinoa]]

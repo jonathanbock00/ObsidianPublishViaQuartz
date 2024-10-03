@@ -4,7 +4,7 @@ type: recipe
 source: 
 status: proven
 tags:
-  - publish
+  
 totalTime: "? min"
 serves:
 ---
@@ -25,10 +25,10 @@ serves:
 	- If you soak them longer cooking times will differ.
 	- Use at least 4x as much water as beans.
 3. Drain the beans and rinse them really well.
-4. Add the beans to instant pot and cover them with fresh water to about 2 inches above the beans.
-5. Cook the beans on high pressure and select cooking time based on the usage table below.
+4. Add the beans to instant pot and cover them with fresh water to about 5 cm above the beans.
+5. Cook the beans on high pressure and select cooking time based on the table below.
 
-| beanType     | cookingTime based on usage (salad/rice-or-beans/soup)     |
+| Type         | CookingTimed (firm/soft/mushy)                            |
 | ------------ | --------------------------------------------------------- |
 | black beans  | 20/25/30 + 20 mins [[NPR]]                                |
 | pinto beans  | 15/20/25 + 20 mins [[NPR]]                                |
