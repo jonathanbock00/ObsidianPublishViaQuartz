@@ -8,6 +8,7 @@ status:
 totalTime: 60 min
 serves:
 ---
+![[Pasted image 20241003154319.png|400]]
 # Ingredients
 #buy
 - [ ] 400 ml canned tomatoes, whole tomatoes
