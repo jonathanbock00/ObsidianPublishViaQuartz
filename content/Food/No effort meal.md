@@ -21,15 +21,22 @@ Every recipe that ticks the following requirements.
 [[Carrot banana smoothie]]
 [[Green avocado lettuce smoothie]]
 [[Purple berry banana smoothie]]
+# Protein shakes
+[[Protein chocolate shake]]
 ## Salads
 [[Carrot apple salad]]
 [[Tofu mit Musik]]
 [[Salad dressings]]
+[[Quinoa salad]]
 ## Juices
 [[Lemon ginger juice]]
 ## Main dish
 [[Chocolate chia pudding]]
 [[Chana masala]]
+[[Frozen veggies mix with Tofu]]
+[[Basil spinach beans]]
+[[Sun-dried tomato chickpeas]]
+[[Red lentil dahl]]
 ## Sauces
 [[Miso sauce]]
 [[Peanut sauce recipe]]
