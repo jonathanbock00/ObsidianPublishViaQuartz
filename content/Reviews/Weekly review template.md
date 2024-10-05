@@ -22,3 +22,13 @@ related: "[[Weekly review template]]"
 - [ ] Collect your rewards, defined in finished life vision files.
 - [ ] Celebrate your progress.
 - [ ] Write 3 things you are thankful for this week.
+# Create shopping list
+- [ ] Pick recipes for whole week based on [[Macro nutrient goal]]
+- [ ] Update [[cook this week]].
+- [ ] Tick ingredients for selected recipes, so they show up in shopping list.
+- [ ] Weight your body.
+- [ ] Check if you gain / loose too much weight.
+
+[[achievements]]
+
+[[rewards]]

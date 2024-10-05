@@ -42,3 +42,6 @@ Cooking can be extremely time consuming especially if you want to eat fresh heal
 # Project files
 [[Create my custom recipe book for no effort meals]]
 [[Invite people to work with me in public on my no effort meals]]
+[[Intuitive eating]]
+
+intuitive eating with simple rules, like ratio between carbs protein and fat, 70% water content

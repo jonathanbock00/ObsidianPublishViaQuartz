@@ -9,10 +9,11 @@ serves: 1 Person
 ![[Pasted image 20240927152951.png|400]]
 # Ingredients
 #buy
-- [x] 2 tablespoons (24g) chia seeds
-- [x] 1 tablespoon (9g) cacao powder
-- [x] 5g agave syrup
-- [x] 300g oat or nut milk
+- [x] 2 Tbsp (24g) chia seeds
+- [x] 1 Tbsp (9g) cacao powder
+- [x] 5 g agave syrup
+- [x] 300g oat milk
+- [x] [[Super pea protein shake]] 10g
 # Directions
 - Put all ingredients in a sealable container.
 - Mix well by shaking for 30 seconds.
@@ -20,4 +21,5 @@ serves: 1 Person
 # Note
 - "No-milk" tasted best so far.
 # Nutrient value
-One serving has 313 calories.
+Eat as much as you want.
+Recipe sticks to Protein 17%, Carbs 33%, Fat 50%. (% of recipe calories)
