@@ -34,7 +34,7 @@ Every recipe that ticks the following requirements.
 [[Chocolate chia pudding]]
 [[Chana masala]]
 [[Frozen veggies mix with Tofu]]
-[[Basil spinach beans]]
+[[Basil spinach beans]] delete
 [[Sun-dried tomato chickpeas]]
 [[Red lentil dahl]]
 ## Sauces

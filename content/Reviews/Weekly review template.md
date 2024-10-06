@@ -18,13 +18,14 @@ related: "[[Weekly review template]]"
 # Plan
 - [ ] Check the status of your [[Life vision]] files. Update it.
 - [ ] Inbox zero (Gmail, Whatsapp, Calendar, Reminders)
+- [ ] Check [[Maintenance tasks]].
 # Rewards :) 
 - [ ] Collect your rewards, defined in finished life vision files.
 - [ ] Celebrate your progress.
 - [ ] Write 3 things you are thankful for this week.
 # Create shopping list
 - [ ] Pick recipes for whole week based on [[Macro nutrient goal]]
-- [ ] Update [[cook this week]].
+- [ ] Update [[Cook this week]].
 - [ ] Tick ingredients for selected recipes, so they show up in shopping list.
 - [ ] Weight your body.
 - [ ] Check if you gain / loose too much weight.

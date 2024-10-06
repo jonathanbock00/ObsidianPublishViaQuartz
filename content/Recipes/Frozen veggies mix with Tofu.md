@@ -13,9 +13,9 @@ serves:
 - [x] Any frozen veggies mix
 	- [x] REWE Beste Wahl Gemüsepfanne Italienische Art
 	- [x] Edeka Gut & Günstig Gemüsepfanne Italien style
-	- [ ] Edeka Freshona Gemüsepfanne Italienische Art
-	- [ ] Edeka Freshona Gemüsepfanne Mexikanische Art
-	- [ ] Edeka Freshona Gemüsepfanne Asiatische Art
+	- [x] Edeka Freshona Gemüsepfanne Italienische Art
+	- [x] Edeka Freshona Gemüsepfanne Mexikanische Art
+	- [x] Edeka Freshona Gemüsepfanne Asiatische Art
 - [x] 200 g Tofu (smoked or natural)
 # Directions
 1. Put the veggies in the pot first.

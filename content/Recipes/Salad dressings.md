@@ -17,11 +17,11 @@ serves: 2 people
 	- [x] 1/2 tsp grated garlic
 	- [x] 1 Tbsp soy sauce
 	- [ ] 1/2 tsp sesame oil
-	- [ ] 1 lime
+	- [x] 1 lime
 	- [x] 1-2 Tbsp water
-	- [ ] 1 tbs honey
+	- [x] 1 tbs honey
 - Maple & mustard dressing
-	- [ ] 1 Tbsp maple syrup
+	- [x] 1 Tbsp maple syrup
 	- [x] 1 Tbsp Dijon Mustard
 	- [x] 1 Tbsp Balsamic vinegar
 	- [x] 6 Tbsp flavorless oil - avocado oil is my favorite

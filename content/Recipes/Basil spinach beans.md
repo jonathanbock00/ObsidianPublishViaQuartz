@@ -4,21 +4,21 @@ status:
 tags: 
 totalTime: 
 serves: 
-title: 
+title: Basil spinach beans
 related: "[[How much is 1 cup in ml?]]"
 ---
 # Ingredients
 #buy
-- [ ] 100g baby spinach  
-- [ ] 1/4 cup nutritional yeast  
-- [ ] 1/4 tsp salt  
-- [ ] 1-2 garlic cloves  
-- [ ] 1/2 of a lemon, juiced  
-- [ ] 10 basil leaves (7g)  
-- [ ] 3/4 cup water or vegetable broth  
-- [ ] 1/3 cup raw cashews  
-- [ ] 480g (2 cans) butter beans, drained and rinsed (Limabohne oder cannellini oder navy Bohnen)
-- [ ] 1/4 tsp nutmeg
+- [x] 100g baby spinach
+- [x] 1/4 cup nutritional yeast
+- [x] 1/2 tsp tello fix
+- [x] 1/4 garlic clove
+- [x] 3/4 lemon, juiced
+- [x] 10 basil leaves (7g)
+- [x] 3/4 cup water
+- [x] 1/3 cup raw cashews
+- [x] 480g (2 cans) butter beans, drained and rinsed (Limabohne oder cannellini oder navy Bohnen)
+- [x] 1/4 tsp nutmeg
 # Directions
 1. Add all ingredients (except butter beans) to blender.
 2. Blend until smooth and no cashew chunks remain.
@@ -29,4 +29,4 @@ related: "[[How much is 1 cup in ml?]]"
 # Nutrient
 [Cronometer](https://cronometer.com/#custom-meals)
 Eat as much as you want.
-Recipe sticks to Protein 15%, Carbs 65%, Fat 20%. (% of recipe calories) And 70% water content.
+Recipe sticks to Protein x%, Carbs x%, Fat x%. (% of recipe calories) And 70% water content.

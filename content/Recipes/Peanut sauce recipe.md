@@ -11,7 +11,7 @@ serves: 2 people
 ![[Pasted image 20240928144454.png|400]]
 # Ingredients
 #buy
-- [ ] 1/2 cup canned coconut milk
+- [x] 1/2 cup canned coconut milk
 - [x] 1/2 cup peanut butter - unsweetened and unsalted
 - [x] 1 clove crushed garlic
 - [x] 1 Tbsp grated fresh ginger

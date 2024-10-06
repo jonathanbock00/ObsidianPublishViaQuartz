@@ -26,7 +26,7 @@ Cooking can be extremely time consuming especially if you want to eat fresh heal
 - [[I eat 50% raw]]
 - [[Ich esse was mir gut tut]]
 # What Tasks / Habits Guarantee Success?
-- Plan what to [[cook this week]] before you go shopping. Stick to the shopping list.
+- Plan what to [[Cook this week]] before you go shopping. Stick to the shopping list.
 - Add a new [[No effort meal]] every week to your recipe collection.
 - Update your shopping list before going to the store. Plan for 1 week of meals.
 - Eat before you go shopping.
@@ -41,7 +41,10 @@ Cooking can be extremely time consuming especially if you want to eat fresh heal
 - Ask people to join my instant pot cooking journey and expand the recipe library together.
 # Project files
 [[Create my custom recipe book for no effort meals]]
-[[Invite people to work with me in public on my no effort meals]]
-[[Intuitive eating]]
+[[I eat whole foods]]
+[[I eat a salad a day from my seedling garden]]
+[[Intuitive eating]] for fitness
+[[I make sure to eat enough protein]]
+[[I take my supplements regularly]]
 
 intuitive eating with simple rules, like ratio between carbs protein and fat, 70% water content

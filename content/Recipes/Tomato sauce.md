@@ -11,7 +11,7 @@ serves:
 ![[Pasted image 20241003154319.png|400]]
 # Ingredients
 #buy
-- [ ] 400 ml canned tomatoes, whole tomatoes
+- [x] 400 ml canned tomatoes, whole tomatoes
 - [x] 1 onions
 - [x] 2 garlic cloves
 - [x] 8 basil leaves

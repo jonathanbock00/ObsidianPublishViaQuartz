@@ -9,25 +9,24 @@ related: "[[How much is 1 cup in ml?]]"
 ---
 # Ingredients
 #buy
-- [ ] 200 g broccolini
-- [ ] 1 tablespoon olive oil
-- [ ] 2 x 15-oz cans chickpeas, drained and rinsed
-- [ ] 80g sun-dried tomatoes ~ 6-8 tomatoes
-- [ ] 2 large roasted red bell peppers from a jar, drained
-- [ ] 2-3 garlic cloves
-- [x] ⅓ cup nutritional yeast
-- [ ] ½ teaspoon salt, divided
-- [ ] Black pepper
-- [ ] 150 ml vegetable broth
-- [ ] 1 teaspoon smoked paprika
-- [ ] ½ teaspoon red pepper flakes, optional
+- [x] 1 Tbsp olive oil
+- [x] 240 g cooked chickpeas
+- [x] 80g sun-dried tomatoes ~ 6-8 tomatoes, 7 rein 
+- [x] 2 large roasted red bell peppers from a jar, drained
+- [x] 1 garlic clove
+- [x] 1 Tbsp nutritional yeast
+- [x] ~~1/2 tsp tello fix~~
+- [x] 150 ml water
+- [x] 1/4 tsp black pepper
+- [x] 1/2 tsp smoked paprika
+- [x] 1/8 tsp red pepper flakes
+- [ ] vegan meat balls
 # Directions
-1. Preheat oven to 400ºF (200ºC).
-2. Toss broccolini with olive oil, salt, and pepper on a baking sheet.
-3. Bake for 20-25 minutes until crispy.
-4. Blend all ingredients (except chickpeas) until smooth.
-5. Heat sauce in a pot and stir in chickpeas.
-6. Serve chickpeas with crispy broccolini on top.
+1. Blend all ingredients (except chickpeas) until smooth.
+2. Heat sauce in a pot and stir in chickpeas.
+3. Simmer for 5 minutes.
+# Notes
+- My sun-dried tomatoes are quite salty. If you use less salty ones, make sure to adjust the amount of tello fix you add.
 # Nutrient
 [Cronometer](https://cronometer.com/#custom-meals)
 Eat as much as you want.

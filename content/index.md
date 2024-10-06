@@ -7,8 +7,8 @@ tags:
 [[Digital Garden#Here's how it works]]
 [[Digital Garden#Why use a digital garden?]]
 # Everything I do in my garden is based on my life vision
-I currently focus on [[Eat whole foods]]. Once this is in a working state, more visions and goals will be added. Stay tuned.
-[[Regular reviews]]
+I currently focus on [[I eat clean]]. Once this is in a working state, more visions and goals will be added. Stay tuned.
+[[I do regular reviews]]
 [[Show your work]]
 # Author of this page
 ![[Bewerbungsfoto Schreiner.jpg|300]]
