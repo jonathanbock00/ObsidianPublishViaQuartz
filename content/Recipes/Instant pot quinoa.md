@@ -16,7 +16,7 @@ title: Instant pot quinoa
 	- [x] red quinoa
 	- [x] black quinoa
 - [x] 1 cups water or broth
-- [x] 1/4 teaspoon sea salt (optional)
+- [x] 1/4 tsp sea salt (optional)
 # Directions
 1. Rinse quinoa under running water until the water runs clear.
 2. Add add all ingredients to the instant pot.

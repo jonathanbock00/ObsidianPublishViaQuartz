@@ -48,3 +48,4 @@ Cooking can be extremely time consuming especially if you want to eat fresh heal
 [[I take my supplements regularly]]
 
 intuitive eating with simple rules, like ratio between carbs protein and fat, 70% water content
+if you are never hungry you eat more than you need
