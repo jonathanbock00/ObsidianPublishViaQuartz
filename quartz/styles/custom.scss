@@ -1,35 +1,9 @@
 @use "./base.scss";
 
-.page {
-  @media all and (max-width: $fullPageWidth) {
-    margin: 0 auto;
-    padding: 0 1rem;
-    max-width: $pageWidth;
-  }
+/*Overwrites the default behaviour that checked checkboxe are striked through and light grey */
 
-  & article {
-    & > h1 {
-      font-size: 2rem;
-    }
-
-    & li:has(> input[type="checkbox"]) {
-      list-style-type: none;
-      padding-left: 0;
-    }
-
-    & li:has(> input[type="checkbox"]:checked) {
-      text-decoration: none;
-      text-decoration-color: var(--darkgray);
-      color: var(--darkgray);
-    }
-
-    & li > * {
-      margin-top: 0;
-      margin-bottom: 0;
-    }
-
-    p > strong {
-      color: var(--dark);
-    }
-  }
+.page article li:has(> input[type="checkbox"]:checked) {
+  text-decoration: none;
+  text-decoration-color: var(--darkgrey);
+  color: var(--darkgrey);
 }
