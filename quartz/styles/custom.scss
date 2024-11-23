@@ -19,8 +19,8 @@
 
     & li:has(> input[type="checkbox"]:checked) {
       text-decoration: none;
-      text-decoration-color: var(--gray);
-      color: var(--gray);
+      text-decoration-color: var(--darkgray);
+      color: var(--darkgray);
     }
 
     & li > * {
