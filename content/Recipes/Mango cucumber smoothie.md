@@ -19,3 +19,5 @@ tags:
 - [x] 1 tsp agave syrup
 # Directions
 - Blend all ingredients in a high power blender for 40 seconds.
+
+zimt optional

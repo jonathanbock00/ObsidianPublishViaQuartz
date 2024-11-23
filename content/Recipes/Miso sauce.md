@@ -16,6 +16,11 @@ tags:
 - [x] 1/4 teaspoon ginger fresh
 - [x] 100ml coconut milk
 - [x] 1/2 teaspoon chili flakes
-- [x] water for consistency
 # Directions
 - Mix all ingredients with a whisk.
+
+Variant
+Add two bell peppers and one tomato
+
+
+

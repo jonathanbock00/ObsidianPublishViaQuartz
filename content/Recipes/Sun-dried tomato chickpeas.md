@@ -11,14 +11,14 @@ related: "[[How much is 1 cup in ml?]]"
 #buy
 - [x] 1 Tbsp olive oil
 - [x] 240 g cooked chickpeas
-- [x] 80g sun-dried tomatoes ~ 6-8 tomatoes, 7 rein 
+- [x] 80g sun-dried tomatoes ~ 6-8 tomatoes, 6 rein 
 - [x] 2 large roasted red bell peppers from a jar, drained
 - [x] 1 garlic clove
 - [x] 1 Tbsp nutritional yeast
 - [x] ~~1/2 tsp tello fix~~
 - [x] 150 ml water
 - [x] 1/4 tsp black pepper
-- [x] 1/2 tsp smoked paprika
+- [x] 1/4 tsp smoked paprika
 - [x] 1/8 tsp red pepper flakes
 - [ ] vegan meat balls
 # Directions
