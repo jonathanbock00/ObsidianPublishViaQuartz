@@ -36,7 +36,7 @@ Every recipe that ticks the following requirements.
 [[Frozen veggies mix with Tofu]]
 [[Basil spinach beans]] delete
 [[Sun-dried tomato chickpeas]]
-[[Red lentil dahl]]
+[[Publish/Recipes/Red lentil dahl]]
 ## Sauces
 [[Miso sauce]]
 [[Peanut sauce recipe]]
