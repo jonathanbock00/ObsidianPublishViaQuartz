@@ -5,11 +5,7 @@ tags:
 ---
 # Map of content
 ## Recipes
-```dataview
-list file.link
-from "Publish/Recipes"
-sort file.name asc
-```
+To take a look at all available recipes. Go to search bar and search for "recipes".
 
 ![[Digital Garden#What is a digital garden?]]
 [[Digital Garden#Here's how it works]]
