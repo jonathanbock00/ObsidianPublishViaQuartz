@@ -3,6 +3,14 @@ title: “Don’t judge each day by the harvest you reap but by the seeds that y
 tags:
   
 ---
+# Map of content
+## Recipes
+```dataview
+list file.link
+from "Publish/Recipes"
+sort file.name asc
+```
+
 ![[Digital Garden#What is a digital garden?]]
 [[Digital Garden#Here's how it works]]
 [[Digital Garden#Why use a digital garden?]]
