@@ -3,7 +3,7 @@ title: Digital Garden
 tags:
   
 ---
-# What is a digital garden?
+
 
 ![[Pasted image 20240927114924.png|500]]
 
