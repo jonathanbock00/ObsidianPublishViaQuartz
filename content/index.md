@@ -5,7 +5,7 @@ tags:
 ---
 # Map of content
 ## Recipes
-To take a look at all available recipes. Go to search bar and search for "recipes".
+All available recipes can be found [here](https://daily-sapling.com/Recipes/).
 
 ![[Digital Garden#What is a digital garden?]]
 [[Digital Garden#Here's how it works]]
