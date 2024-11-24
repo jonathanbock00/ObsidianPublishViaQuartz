@@ -4,7 +4,7 @@ status:
 tags: 
 totalTime: 
 serves: 
-title: 
+title: Red lentil dahl
 related: "[[AI format recipe prompt]]"
 ---
 # Ingredients
