@@ -1,5 +1,5 @@
 ---
-title: Red lentil dahl
+title: Quick red lentil dahl
 source: 
 related: "[[AI format recipe prompt]]"
 tags: 
