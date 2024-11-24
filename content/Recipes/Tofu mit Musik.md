@@ -6,6 +6,7 @@ status: proven
 tags:
   
 ---
+![[Pasted image 20241124131523.png|600]]
 # Ingredients
 #buy
 - [x] 200 g smoked firm tofu
@@ -19,5 +20,6 @@ tags:
 - [x] 1/4 tsp pepper
 - [x] 1/4 tsp caraway seeds
 # Directions
-1. Cut the tofu and gherkins and onions in 5x5 mm cubes.
+1. Use a tofu press to remove excess moisture from the tofu.
+2. Cut the tofu and gherkins and onions in 5x5 mm cubes.
 3. Add all ingredients into a bowl and mix well.
