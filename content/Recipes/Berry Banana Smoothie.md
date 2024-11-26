@@ -17,6 +17,6 @@ tags:
 	- [x] frozen mixed berries
 	- [x] frozen strawberries
 - [x] 1 tablespoon ground chia seeds
-- [x] 1 cup romaine lettuce or spinach
+- [x] 1 cup romaine lettuce or baby spinach (optional)
 # Directions
 - Blend all ingredients in a high power blender for 40 seconds.
