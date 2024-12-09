@@ -11,17 +11,18 @@ serves: 2 people
 ![[Pasted image 20241124132028.png|400]]
 # Ingredients
 #buy
-- [x] 1 cup red lentils, rinsed
-- [x] 2 cups water or vegetable broth
 - [x] 1 small onion, diced
 - [x] 2 garlic cloves, minced
 - [x] 1 tsp cumin whole seeds
 - [x] 1 tsp turmeric
-- [x] 1/2 tsp chili powder (optional, for heat)
+- [x] 1/4 tsp chili powder (optional, for heat)
 - [x] 1 can (400g) diced tomatoes or fresh tomatoes (preferred)
-- [x] Salt and pepper to taste
+- [x] Salt (3 g) and pepper to taste in
+- [x] 1 cup red lentils, rinsed
+- [x] 2,5 cups water
 - [x] Fresh cilantro for garnish (optional)
 - [x] Coconut milk (optional)
+- [x] (TEST) 200g firm natural tofu, added in step 1, add salt to compenate for tofu
 
 # Directions
 1. Heat oil in a pot and sauté the diced onion and minced garlic until softened.
