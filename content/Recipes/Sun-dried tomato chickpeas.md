@@ -1,8 +1,9 @@
 ---
 type: recipe
 title: Sun-dried tomato chickpeas
-status: 
-tags: 
+status: experimental
+tags:
+  - stew
 totalTime: 
 serves: 
 related: "[[How much is 1 cup in ml?]]"

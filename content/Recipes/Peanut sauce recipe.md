@@ -2,9 +2,9 @@
 title: Peanut sauce recipe
 type: recipe
 source: 
-status: experimental
+status: proven
 tags:
-  
+  - sauce
 totalTime: 5 min
 serves: 2 people
 ---

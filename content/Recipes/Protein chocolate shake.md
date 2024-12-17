@@ -2,9 +2,10 @@
 title: Protein chocolate shake
 source: 
 related: "[[How much is 1 cup in ml?]]"
-tags: 
+tags:
+  - smoothie
 type: recipe
-status: 
+status: proven
 totalTime: 
 serves:
 ---

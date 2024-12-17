@@ -2,20 +2,20 @@
 type: recipe
 title: Berry banana smoothie
 source: 
-status: experimental
+status: proven
 tags:
   - smoothie
 ---
 ![[Pasted image 20240928083920.png|400]]
 # Ingredients
 #buy
-- [x] 1 banana
-- [x] 1/2 cup milk of choice
 - [x] 1 cup frozen berries
 	- [x] frozen blueberries
 	- [x] frozen raspberries
 	- [x] frozen mixed berries
 	- [x] frozen strawberries
+- [x] 1 banana
+- [x] 1/2 cup plant milk of choice
 - [x] 1 tablespoon ground chia seeds
 - [x] 1 cup romaine lettuce or baby spinach (optional)
 # Directions

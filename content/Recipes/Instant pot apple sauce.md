@@ -4,7 +4,7 @@ title: Instant pot apple sauce
 source: 
 status: experimental
 tags:
-
+  - sauce
 ---
 ![[Pasted image 20240928143656.png|400]]
 # Ingredients

@@ -4,7 +4,7 @@ title: Salad dressing recipe
 source: "[[Healthy Salad Dressings clipping]]"
 status: experimental
 tags:
-  
+  - sauce
 totalTime: "? min"
 serves: 2 people
 ---
@@ -16,7 +16,7 @@ serves: 2 people
 	- [x] 1 tsp grated ginger
 	- [x] 1/2 tsp grated garlic
 	- [x] 1 Tbsp soy sauce
-	- [ ] 1/2 tsp sesame oil
+	- [x] 1/2 tsp sesame oil
 	- [x] 1 lime
 	- [x] 1-2 Tbsp water
 	- [x] 1 tbs honey

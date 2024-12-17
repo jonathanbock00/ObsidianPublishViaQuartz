@@ -1,7 +1,8 @@
 ---
 type: recipe
 status: 
-tags: 
+tags:
+  - stew
 totalTime: 
 serves: 
 title: Red lentil dahl

@@ -1,7 +1,8 @@
 ---
 type: recipe
 status: 
-tags: 
+tags:
+  - Salad
 totalTime: 
 serves: 
 title: 

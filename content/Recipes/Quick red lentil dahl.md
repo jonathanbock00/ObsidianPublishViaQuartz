@@ -2,9 +2,10 @@
 title: Quick red lentil dahl
 source: 
 related: "[[AI format recipe prompt]]"
-tags: 
+tags:
+  - stew
 type: recipe
-status: experimental
+status: proven
 totalTime: 30 min
 serves: 2 people
 ---

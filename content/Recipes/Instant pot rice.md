@@ -2,7 +2,8 @@
 type: recipe
 source: 
 status: proven
-tags: []
+tags:
+  - stew
 totalTime: "? min"
 serves: 4 people
 title: Instant pot rice

@@ -4,7 +4,7 @@ title: Lemon ginger juice
 source: 
 status: proven
 tags:
-  
+  - juice
 ---
 ![[Pasted image 20240928142354.png|400]]
 # Ingredients

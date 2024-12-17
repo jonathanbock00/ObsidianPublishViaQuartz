@@ -2,9 +2,9 @@
 title: Chana masala
 type: recipe
 source: 
-status: experimental
+status: proven
 tags:
-  
+  - stew
 ---
 ![[Pasted image 20241003131516.png|400]]
 #buy

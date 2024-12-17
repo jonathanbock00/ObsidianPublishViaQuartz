@@ -3,8 +3,9 @@ type: recipe
 title: Tomato sauce
 source: 
 related: "[[How much is 1 cup in ml?]]"
-tags: 
-status: 
+tags:
+  - sauce
+status: experimental
 totalTime: 60 min
 serves:
 ---

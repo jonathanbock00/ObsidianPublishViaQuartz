@@ -1,7 +1,8 @@
 ---
 type: recipe
-status: 
-tags: 
+status: proven
+tags:
+  - cookedVeggies
 totalTime: 
 serves: 
 title: 

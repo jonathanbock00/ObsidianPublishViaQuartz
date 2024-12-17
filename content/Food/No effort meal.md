@@ -33,7 +33,7 @@ Every recipe that ticks the following requirements.
 ## Main dish
 [[Chocolate chia pudding]]
 [[Chana masala]]
-[[Frozen veggies mix with Tofu]]
+[[Frozen veggies mix with tofu]]
 [[Basil spinach beans]] delete
 [[Sun-dried tomato chickpeas]]
 [[Publish/Recipes/Red lentil dahl]]

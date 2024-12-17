@@ -4,7 +4,7 @@ type: recipe
 source: 
 status: proven
 tags:
-  
+  - stew
 totalTime: "? min"
 serves:
 ---

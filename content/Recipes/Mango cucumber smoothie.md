@@ -2,10 +2,9 @@
 type: recipe
 title: Mango cucumber smoothie
 source: 
-status: experimental
+status: proven
 tags:
   - smoothie
-  
 ---
 ![[Pasted image 20240928083431.png|400]]
 # Ingredients
@@ -17,7 +16,6 @@ tags:
 - [x] ½ lime juice
 - [x] 2-5 mint leaves
 - [x] 1 tsp agave syrup
+- [ ] cinnamon (optional) 
 # Directions
 - Blend all ingredients in a high power blender for 40 seconds.
-
-zimt optional

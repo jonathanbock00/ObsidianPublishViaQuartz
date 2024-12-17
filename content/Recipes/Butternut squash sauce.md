@@ -1,5 +1,5 @@
 ---
-title: Butternut-squash sauce
+title: Butternut squash sauce
 type: recipe
 status: experimental
 tags:

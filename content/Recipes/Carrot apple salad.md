@@ -4,7 +4,7 @@ title: Carrot apple salad
 source: 
 status: proven
 tags:
-  
+  - Salad
 ---
 ![[Pasted image 20241003131332.png|400]]
 # Ingredients

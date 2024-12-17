@@ -1,9 +1,10 @@
 ---
 type: recipe
-title: 
+title: Frozen veggies mix with tofu
 source: 
 related: "[[How much is 1 cup in ml?]]"
-tags: 
+tags:
+  - cookedVeggies
 status: 
 totalTime: 
 serves:
@@ -21,6 +22,7 @@ serves:
 1. Put the veggies in the pot first.
 2. Crumble the tofu on top of the veggies.
 3. Cook for 15 in instant pot on saute.
+4. Add whatever you like to pimp it.
 # Nutrient
 [Cronometer](https://cronometer.com/#custom-meals)
 Eat as much as you want.

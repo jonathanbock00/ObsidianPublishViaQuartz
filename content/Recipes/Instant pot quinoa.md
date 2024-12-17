@@ -3,7 +3,7 @@ type: recipe
 source: 
 status: proven
 tags:
-  
+  - stew
 totalTime: 20 min
 serves: 4 people
 title: Instant pot quinoa

@@ -3,7 +3,7 @@ type: recipe
 source: 
 status: experimental
 tags:
-  
+  - spiceMix
 title: Chana masala spice blend
 ---
 ![[Pasted image 20240928112255.png|400]]
