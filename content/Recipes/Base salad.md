@@ -2,7 +2,7 @@
 type: recipe
 status: 
 tags:
-  - Salad
+  - salad
 totalTime: 
 serves: 
 title: 

@@ -4,7 +4,7 @@ title: Tofu mit Musik
 source: 
 status: proven
 tags:
-  - Salad
+  - salad
 ---
 ![[Pasted image 20241124131523.png|600]]
 # Ingredients
