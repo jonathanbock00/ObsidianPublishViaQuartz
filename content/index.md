@@ -2,17 +2,13 @@
 title: Garden overview
 tags:
 ---
-# Recipes
-All available recipes can be found [here](https://daily-sapling.com/Recipes/).
-[[Impressum]]
-# What is a digital garden?
-> “Don’t judge each day by the harvest you reap but by the seeds that you plant.” Ralph Waldo Emerson
+A [[Digital Garden]] is a personal knowledge base that's organised like a garden. Just as a real garden is a place where you cultivate plants, a digital garden is a place where you cultivate your knowledge. This garden belongs to [[Jonathan Bock]] ([[Impressum]])
 
-![[Digital Garden]]
-# Everything I do in my garden is based on my life vision
+Everything I do in my garden is based on my life vision
 I currently focus on [[I eat clean]]. Once this is in a working state, more visions and goals will be added. Stay tuned.
+# Recipes
+A list of all available recipes can be found [here](https://daily-sapling.com/Recipes/).
+
+# Other project
 [[I do regular reviews]]
 [[Show your work]]
-# Author of this page
-![[Bewerbungsfoto Schreiner.jpg|300]]
-Jonathan Bock
