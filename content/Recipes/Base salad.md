@@ -22,9 +22,9 @@ related: "[[AI format recipe prompt]]"
 - [x] 1/2 teaspoon garlic powder  
 - [x] Salt and pepper to taste  
 - [x] Optional: pumpkin seeds or sunflower seeds for crunch  
-- [ ] Rotkohl
-- [ ] Ajvar
-		- [ ] more?
+- [x] Rotkohl
+- [x] Ajvar
+		- [x] more?
 
 # Directions  
 1. **Prepare the Salad Base**: Combine the salad greens, cherry tomatoes, cucumber, and avocado in a large bowl.  

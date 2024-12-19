@@ -18,6 +18,9 @@ What I eat:
 8. [Cooked veggies](https://daily-sapling.com/tags/cookedVeggies).
 9. [Salads](https://daily-sapling.com/tags/salad).
 10. [SpiceMixes](https://daily-sapling.com/tags/spiceMix).
+
+# Projects
+A image gallery of random projects I made over the years. [[Project gallery]]
 # Other projects
 [[I do regular reviews]]
 [[Show your work]]

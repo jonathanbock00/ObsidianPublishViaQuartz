@@ -21,7 +21,7 @@ related: "[[How much is 1 cup in ml?]]"
 - [x] 1/4 tsp black pepper
 - [x] 1/4 tsp smoked paprika
 - [x] 1/8 tsp red pepper flakes
-- [ ] vegan meat balls
+- [x] vegan meat balls
 # Directions
 1. Blend all ingredients (except chickpeas) until smooth.
 2. Heat sauce in a pot and stir in chickpeas.
