@@ -24,7 +24,7 @@ Every recipe that ticks the following requirements.
 # Protein shakes
 [[Protein chocolate shake]]
 ## Salads
-[[Carrot apple salad]]
+[[Carrot salad]]
 [[Tofu mit Musik]]
 [[Salad dressings]]
 [[Quinoa salad]]
