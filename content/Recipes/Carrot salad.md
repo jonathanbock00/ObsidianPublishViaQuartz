@@ -1,6 +1,6 @@
 ---
 type: recipe
-title: Carrot apple salad
+title: Carrot salad
 source: 
 status: proven
 tags:
