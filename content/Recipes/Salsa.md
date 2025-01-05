@@ -15,9 +15,9 @@ related: "[[AI format recipe prompt]]"
 - [x] 1 jalapeno pepper, seeded and roughly chopped
 - [x] 2 (14-ounce) cans fire-roasted diced tomatoes, drained
 - [x] 1 (4-ounce) can green chilies
-- [x] 1/2 cup fresh cilantro (about 1/2 a bunch)
+- [x] 1/2 cup fresh cilantro
 - [x] 1/2 lime, juiced
-- [x] 1/2 teaspoon salt (to taste)
+- [x] 1/2 teaspoon salt
 
 ## Directions
 

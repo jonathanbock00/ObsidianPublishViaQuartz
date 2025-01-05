@@ -21,6 +21,8 @@ What I eat:
 11. [SweetSnacks](https://daily-sapling.com/tags/sweetSnack).
 12. [SaltySnacks](https://daily-sapling.com/tags/saltySnack).
 13. [Bread](https://daily-sapling.com/tags/bread).
+14. [Soup](https://daily-sapling.com/tags/soup).
+15. 14. [Misc](https://daily-sapling.com/tags/misc).
 # Projects
 A image gallery of random projects I made over the years. [[Project gallery]]
 # Other projects
