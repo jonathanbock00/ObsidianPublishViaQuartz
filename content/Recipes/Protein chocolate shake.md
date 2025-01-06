@@ -1,6 +1,5 @@
 ---
 title: Protein chocolate shake
-source: 
 related: "[[How much is 1 cup in ml?]]"
 tags:
   - smoothie
@@ -9,6 +8,7 @@ status: proven
 totalTime: 
 serves:
 ---
+![[Pasted image 20250106121124.png|400]]
 # Ingredients
 #buy
 - [x] 180 ml water
