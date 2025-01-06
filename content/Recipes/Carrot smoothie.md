@@ -1,7 +1,7 @@
 ---
 type: recipe
 title: Carrot smoothie
-status: experimental
+status: proven
 tags:
   - smoothie
 ---
