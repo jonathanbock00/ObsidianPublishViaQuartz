@@ -5,7 +5,7 @@ tags:
   - salad
 totalTime: 5 min
 serves: "8"
-title: Untitled 27
+title: Greek salad dressing
 related: "[[AI format recipe prompt]]"
 ---
 # Ingredients

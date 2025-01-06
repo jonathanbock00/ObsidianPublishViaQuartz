@@ -5,6 +5,7 @@ source: "[[Getting things done]]"
 related: "[[Weekly review template]]"
 ---
 # Backup
+- [ ] Move iPhone images to Mac
 - [ ] Backup your mac
 	- [ ] Do incremental backup to "Externe 1 Seagate".
 	- [ ] Do mirror backup to "Externe 2 WD".

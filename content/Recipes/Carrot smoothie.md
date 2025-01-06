@@ -1,11 +1,9 @@
 ---
 type: recipe
-title: Carrot banana smoothie
-source: 
+title: Carrot smoothie
 status: experimental
 tags:
   - smoothie
-  
 ---
 ![[Pasted image 20240927105304.png|400]]
 # Ingredients
@@ -18,4 +16,4 @@ tags:
 - [x] ½ tsp cinnamon
 - [x] ⅛ tsp nutmeg
 # Directions
-- Blend all ingredients in a high power blender for 40 seconds. 
+- Blend all ingredients in a high power blender for 40 seconds.

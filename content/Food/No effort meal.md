@@ -17,10 +17,10 @@ Every recipe that ticks the following requirements.
 [[Instant pot beans]]
 ## Smoothies
 [[Mango cucumber smoothie]]
-[[Berry banana smoothie]]
-[[Carrot banana smoothie]]
-[[Green avocado lettuce smoothie]]
-[[Purple berry banana smoothie]]
+[[Mixed berry smoothie]]
+[[Carrot smoothie]]
+[[Avocado lettuce smoothie]]
+[[Pineapple berry smoothie]]
 # Protein shakes
 [[Protein chocolate shake]]
 ## Salads

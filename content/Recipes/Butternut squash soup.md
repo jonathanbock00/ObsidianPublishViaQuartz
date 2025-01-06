@@ -15,11 +15,11 @@ related: "[[AI format recipe prompt]]"
 - [x] 1 small yellow onion (halved)
 - [x] 1 small garlic clove (peeled)
 - [x] ½ tablespoon maple syrup
+- [x] 3 to 4 cups vegetable broth
 - [x] 1 teaspoon salt
 - [x] freshly ground black pepper (to taste)
 - [x] ¼ teaspoon ground nutmeg
 - [x] ¼ teaspoon ground ginger
-- [x] 3 to 4 cups vegetable broth
 
 # Directions
 1. Preheat oven to 425°F (220°C). Halve squash lengthwise and remove seeds. Microwave squash for easier cutting if needed.

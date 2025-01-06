@@ -16,6 +16,6 @@ tags:
 - [x] ½ lime juice
 - [x] 2-5 mint leaves
 - [x] 1 tsp agave syrup
-- [ ] cinnamon (optional) 
+- [x] cinnamon (optional) 
 # Directions
 - Blend all ingredients in a high power blender for 40 seconds.

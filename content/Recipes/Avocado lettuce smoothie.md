@@ -1,6 +1,6 @@
 ---
 type: recipe
-title: Green avocado lettuce smoothie
+title: Avocado lettuce smoothie
 source: 
 status: experimental
 tags:

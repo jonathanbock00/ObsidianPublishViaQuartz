@@ -1,6 +1,6 @@
 ---
 type: recipe
-title: Purple berry banana smoothie
+title: Pineapple berry smoothie
 source: 
 status: experimental
 tags:

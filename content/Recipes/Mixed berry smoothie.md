@@ -1,6 +1,6 @@
 ---
 type: recipe
-title: Berry banana smoothie
+title: Mixed berry smoothie
 source: 
 status: proven
 tags:
