@@ -23,7 +23,6 @@ serves: 2 people
 - [x] 2,5 cups water
 - [x] Fresh cilantro for garnish (optional)
 - [x] Coconut milk (optional)
-- [x] (TEST) 200g firm natural tofu, added in step 1, add salt to compenate for tofu
 
 # Directions
 1. Heat oil in a pot and sauté the diced onion and minced garlic until softened.

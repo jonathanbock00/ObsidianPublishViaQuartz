@@ -3,7 +3,7 @@ type: recipe
 status: proven
 tags:
   - cookedVeggies
-totalTime: 
+totalTime: 35 min
 serves: 
 title: 
 related: "[[AI format recipe prompt]]"
@@ -12,19 +12,17 @@ related: "[[AI format recipe prompt]]"
 # Ingredients  
 #buy  
 - [x] 1 large butternut squash (about 3 lbs)  
-- [x] 3 tablespoons olive oil  
-- [x] 1 teaspoon sea salt  
-- [x] 1/2 teaspoon black pepper  
-- [x] 1 teaspoon dried Italian seasoning (oregano, thyme, rosemary, basil)  
+- [x] 2 tablespoons sunflower oil  
+- [ ] 1 teaspoon basil (dry)
+- [ ] 1 teaspoon majoran (dry)
+- [x] 1/2 teaspoon sea salt 
+- [ ] 1/2 teaspoon oregano (dry) 
 - [x] 1/2 teaspoon garlic powder  
-- [x] 1/2 teaspoon chili flakes (adjust to taste)  
-- [x] Optional: grated Parmesan for garnish  
-
+- [x] 1/2 teaspoon chili flakes
+- [x] Optional: Hefeflocken
 # Directions  
 1. Preheat your oven to 400°F (200°C) and line a baking sheet with parchment paper.  
 2. Peel the squash, cut it in half lengthwise, scoop out the seeds, and dice into 1-inch cubes.  
-3. In a large bowl, toss the squash with olive oil, salt, pepper, Italian seasoning, garlic powder, and chili flakes until evenly coated.  
-4. Spread the cubes in a single layer on the baking sheet. Roast for 30 minutes, flipping halfway through, until tender and golden.  
-5. Optionally sprinkle with grated Parmesan before serving.  
-
-Enjoy this simple and flavourful side dish with a touch of spice and Italian herbs!
+3. In a large bowl, toss the squash with oil and spices. Mix.
+4. Spread the cubes in a single layer on the baking sheet. Roast for 20 until tender and golden.  
+5. Optionally sprinkle with Hefeflocken before serving.
