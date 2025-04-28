@@ -12,6 +12,7 @@ related: "[[Who am I right now?]]"
 		- [ ] Paypal Guthaben auszahlen und das von vorherigem Monat zuordnen.
 - [ ] Process sync conflicts.
 - [ ] Clear microsoft lens document folder.
+- [ ] Clear camera pictures and name folders. (Basti naming system.)
 - [ ] What is unnecessary? What can be removed from my system?
 - [ ] A I still on track? Should I change course? Gut feeling?
 - [ ] Check [[expenses]]. Quit unnecessary abos.
